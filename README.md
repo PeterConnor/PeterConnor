@@ -1,25 +1,25 @@
 <h1 align="center">Hi 👋, I'm Pete</h1>
-<h3 align="center">I've been learning Swift and developing iOS apps since 2015. I currently live in Pelham, NY, which is right outside of NYC.</h3>
+<h3 align="center">I've been learning Swift and developing iOS apps since 2015. I currently live in New York, NY.</h3>
 
 - 🔭 I’m currently working on [Shoflo](https://github.com/PeterConnor/Shoflo)
 
-- 🌱 I’m currently learning on **Ray Wenderlich, Hacking With Swift, and Design+Code**
+- 🌱 I’m currently learning **SwiftUI**
 
-- 👯 I’m looking to collaborate on **SwiftUI projects**
+- 👯 I’m looking to collaborate on **SwiftUI Projects**
 
-- 💬 Ask me about **Any of my projects**
+- 💬 Ask me about **Any of my projects or anything Swift/iOS related**
 
 - 📫 How to reach me **peter.t.connor@gmail.com**
 
 - 📄 Know about my experiences [https://sites.google.com/view/peterconnorresume/home](https://sites.google.com/view/peterconnorresume/home)
 
-- ⚡ Fun fact **I love basketball, funk music, bass guitar, golf, and chess**
+- ⚡ Fun fact **I love basketball, golf, funk music, bass guitar, and chess**
 
-<img src="https://github.com/PeterConnor/PeterConnor/blob/main/minigames-ss1.png" width="180"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/minigames-ss2.png" width="180"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/minigames-ss3.png" width="180"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/minigames-ss4.png" width="180"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/minigames-ss5.png" width="180">
+<img src="https://github.com/PeterConnor/PeterConnor/blob/main/minigames-ss1.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/minigames-ss2.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/minigames-ss3.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/minigames-ss4.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/minigames-ss5.png" width="160">
 
-<img src="https://github.com/PeterConnor/PeterConnor/blob/main/shoflo-ss1.png" width="180"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/shoflo-ss2.png" width="180"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/shoflo-ss3.png" width="180"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/shoflo-ss4.png" width="180"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/shoflo-ss5.png" width="180">
+<img src="https://github.com/PeterConnor/PeterConnor/blob/main/shoflo-ss1.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/shoflo-ss2.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/shoflo-ss3.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/shoflo-ss4.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/shoflo-ss5.png" width="160">
 
-<img src="https://github.com/PeterConnor/PeterConnor/blob/main/outfittracker1.png" width="180"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/outfittracker2.png" width="180"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/outfittracker3.png" width="180"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/outfittracker4.png" width="180"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/outfittracker5.png" width="180">
+<img src="https://github.com/PeterConnor/PeterConnor/blob/main/outfittracker1.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/outfittracker2.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/outfittracker3.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/outfittracker4.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/outfittracker5.png" width="160">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
