@@ -15,11 +15,11 @@
 
 - ⚡ Fun fact **I love basketball, golf, funk music, bass guitar, and chess**
 
-<img src="https://github.com/PeterConnor/PeterConnor/blob/main/minigames-ss1.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/minigames-ss2.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/minigames-ss3.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/minigames-ss4.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/minigames-ss5.png" width="160">
+<img src="https://github.com/PeterConnor/PeterConnor/blob/main/minigames-ss2.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/minigames-ss1.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/minigames-ss3.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/minigames-ss4.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/minigames-ss5.png" width="160">
 
 <img src="https://github.com/PeterConnor/PeterConnor/blob/main/shoflo-ss1.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/shoflo-ss2.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/shoflo-ss3.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/shoflo-ss4.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/shoflo-ss5.png" width="160">
 
-<img src="https://github.com/PeterConnor/PeterConnor/blob/main/outfittracker1.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/outfittracker2.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/outfittracker3.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/outfittracker4.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/outfittracker5.png" width="160">
+<img src="https://github.com/PeterConnor/PeterConnor/blob/main/otss1.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/otss2.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/otss3.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/otss4.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/otss5.png" width="160">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
