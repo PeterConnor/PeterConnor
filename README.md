@@ -15,6 +15,12 @@
 
 - ⚡ Fun fact **I love basketball, funk music, bass guitar, golf, and chess**
 
+<img src="https://github.com/PeterConnor/PeterConnor/blob/main/minigames-ss1.png" width="180"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/minigames-ss2.png" width="180"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/minigames-ss3.png" width="180"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/minigames-ss4.png" width="180"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/minigames-ss5.png" width="180">
+
+<img src="https://github.com/PeterConnor/PeterConnor/blob/main/shoflo-ss1.png" width="180"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/shoflo-ss2.png" width="180"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/shoflo-ss3.png" width="180"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/shoflo-ss4.png" width="180"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/shoflo-ss5.png" width="180">
+
+<img src="https://github.com/PeterConnor/PeterConnor/blob/main/outfittracker1.png" width="180"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/outfittracker2.png" width="180"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/outfittracker3.png" width="180"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/outfittracker4.png" width="180"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/outfittracker5.png" width="180">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tweeterconnor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tweeterconnor" height="30" width="40" /></a>
