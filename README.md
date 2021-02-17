@@ -24,7 +24,7 @@
 <img src="https://github.com/PeterConnor/PeterConnor/blob/main/shoflo-ss1.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/shoflo-ss2.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/shoflo-ss3.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/shoflo-ss4.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/shoflo-ss5.png" width="160">
 
 <h4 align="center">MiniGames!</h4>
-<h5 align="center">Minigames! consists of 6 fun and addicting games. Users must tap, match, shoot, dodge, and bounce their way through the games to rack up the highest score possible! and rackmatching, shooting, dodging, and bouncing. </h5>
+<h5 align="center">Minigames! consists of 6 fun and addicting games. Users must tap, match, shoot, dodge, and bounce their way through these games to rack up the highest scores possible!</h5>
 <h6 align="center">Swift, UIKit, SpriteKit, GameKit, StoreKit, Core Motion, Game Center, Google AdMob, and Inkscape. </h6>
 
 <img src="https://github.com/PeterConnor/PeterConnor/blob/main/minigames-ss2.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/minigames-ss1.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/minigames-ss3.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/minigames-ss4.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/minigames-ss5.png" width="160">
