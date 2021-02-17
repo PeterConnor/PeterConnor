@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pete</h1>
 <h3 align="center">I've been learning Swift and developing iOS apps since 2015. I currently live in New York, NY.</h3>
 
-- 🔭 I’m currently working on [Shoflo](https://github.com/PeterConnor/Shoflo)
+- 🔭 I’m working on **[Shoflo](https://github.com/PeterConnor/Shoflo)**
 
-- 🌱 I’m currently learning **SwiftUI**
+- 🌱 I’m learning **SwiftUI**
 
 - 👯 I’m looking to collaborate on **SwiftUI Projects**
 
@@ -11,27 +11,28 @@
 
 - 📫 How to reach me **peter.t.connor@gmail.com**
 
-- 📄 Know about my experiences [https://sites.google.com/view/peterconnorresume/home](https://sites.google.com/view/peterconnorresume/home)
+- 📄 Know about my experiences **[Resume](https://sites.google.com/view/peterconnorresume/home)**
 
 - ⚡ Fun fact **I love basketball, golf, funk music, bass guitar, and chess**
 
-<h3 align="center">My Projects</h3>
+
+<h2 align="center">My Projects</h2>
 <h4 align="center">Shoflo</h4>
-<h5 align="center">Shoflo allows users to search for tv shows, save their favorites, see recommended shows, browse popular shows, and discover top rated shows. Once shows are saved, users will receive notifications when new seasons of their favorite shows are announced. (Powered by The Movie Database - TMDb)</h5>
-<h6 align="center">Technologies: Swift, SwiftUI,  </h6>
+<h5 align="center">Shoflo allows users to search for tv shows, save their favorites, see recommended shows, browse popular shows, and discover top rated shows. Once shows are saved, users receive notifications when new seasons of their favorite shows are announced.</h5>
+<h6 align="center">Swift, SwiftUI, Core Data, Background Tasks, Network, REST, JSON, User Notifications, and Inkscape.</h6>
 
 <img src="https://github.com/PeterConnor/PeterConnor/blob/main/shoflo-ss1.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/shoflo-ss2.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/shoflo-ss3.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/shoflo-ss4.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/shoflo-ss5.png" width="160">
 
 <h4 align="center">MiniGames!</h4>
-<h5 align="center">Minigames! consists of 6 fun and addicting games. Users must tap, match, shoot, dodge, and bounce their way through the games to rack up the highest score possible! and rackmatching, shooting, dodging, and bouncing </h5>
-<h6 align="center">Technologies: Swift, SpriteKit, UIKit,  </h6>
+<h5 align="center">Minigames! consists of 6 fun and addicting games. Users must tap, match, shoot, dodge, and bounce their way through the games to rack up the highest score possible! and rackmatching, shooting, dodging, and bouncing. </h5>
+<h6 align="center">Swift, UIKit, SpriteKit, GameKit, StoreKit, Core Motion, Game Center, Google AdMob, and Inkscape. </h6>
 
 <img src="https://github.com/PeterConnor/PeterConnor/blob/main/minigames-ss2.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/minigames-ss1.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/minigames-ss3.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/minigames-ss4.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/minigames-ss5.png" width="160">
 
 <h4 align="center">OutfitTracker</h4>
 <h5 align="center">OutfitTracker lets users take photos of their outfits and track their wardrobes. Users can log, sort, and search for previously worn outfits by the corresponding note, group, and date that they assign. OutfitTracker prevents users from wondering when the last time they wore something was, and it helps users to avoid wearing the same shirt two times in a row around the same group of people, or from wearing the same sweater to the family holiday party two years in a row.</h5>
 
-<h6 align="center">Technologies: Swift, UIKit,  </h6>
+<h6 align="center">Swift, UIKit, Core Data, User Notifications, AVFoundation, Photos, Google AdMob, and Inkscape.   </h6>
 
 <img src="https://github.com/PeterConnor/PeterConnor/blob/main/otss1.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/otss2.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/otss3.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/otss4.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/otss5.png" width="160">
 
