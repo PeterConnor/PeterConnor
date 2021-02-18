@@ -21,20 +21,22 @@
 <h5 align="center">Shoflo allows users to search for tv shows, save their favorites, see recommended shows, browse popular shows, and discover top rated shows. Once shows are saved, users receive notifications when new seasons of their favorite shows are announced.</h5>
 <h6 align="center">Swift, SwiftUI, Core Data, Background Tasks, Network, REST, JSON, User Notifications, and Inkscape.</h6>
 
-<img src="https://github.com/PeterConnor/PeterConnor/blob/main/Shofloss6.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/shoflo-ss1.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/shoflo-ss3.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/shoflo-ss4.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/shoflo-ss5.png" width="160">
+<p align="center"><img src="https://github.com/PeterConnor/PeterConnor/blob/main/Shofloss6.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/shoflo-ss1.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/shoflo-ss3.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/shoflo-ss4.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/shoflo-ss5.png" width="160"></p>
 
 <h4 align="center">MiniGames!</h4>
 <h5 align="center">Minigames! consists of 6 fun and addicting games. Users must tap, match, shoot, dodge, and bounce their way through these games to rack up the highest scores possible!</h5>
 <h6 align="center">Swift, UIKit, SpriteKit, GameKit, StoreKit, Core Motion, Game Center, Google AdMob, and Inkscape. </h6>
 
-<img src="https://github.com/PeterConnor/PeterConnor/blob/main/minigames-ss2.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/minigames-ss1.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/minigames-ss3.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/minigames-ss4.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/minigames-ss5.png" width="160">
+<p align="center"><img src="https://github.com/PeterConnor/PeterConnor/blob/main/minigames-ss2.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/minigames-ss1.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/minigames-ss3.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/minigames-ss4.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/minigames-ss5.png" width="160"></p>
 
 <h4 align="center">OutfitTracker</h4>
 <h5 align="center">OutfitTracker lets users take photos of their outfits and track their wardrobes. Users can log, sort, and search for previously worn outfits by the corresponding note, group, and date that they assign. OutfitTracker prevents users from wondering when the last time they wore something was, and it helps users to avoid wearing the same shirt two times in a row around the same group of people, or from wearing the same sweater to the family holiday party two years in a row.</h5>
 
 <h6 align="center">Swift, UIKit, Core Data, User Notifications, AVFoundation, Photos, Google AdMob, and Inkscape.   </h6>
 
-<img src="https://github.com/PeterConnor/PeterConnor/blob/main/otss1.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/otss2.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/otss3.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/otss4.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/otss5.png" width="160">
+<p align="center"><img src="https://github.com/PeterConnor/PeterConnor/blob/main/otss1.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/otss2.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/otss3.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/otss4.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/otss5.png" width="160"></p>
+
+<p align="center"></a> <a href="https://apps.apple.com/us/developer/pete-connor/id1229921647" target="_blank"> <img src="AppStoreLogo.svg" alt="App Store" width="200" height="40"/> </a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
