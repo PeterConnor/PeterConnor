@@ -17,6 +17,7 @@
 
 
 <h2 align="center">My Projects</h2>
+<p align="center"></a> <a href="https://apps.apple.com/us/developer/pete-connor/id1229921647" target="_blank"> <img src="AppStoreLogo.svg" alt="App Store" width="200" height="40"/> </a> </p>
 <h4 align="center">Shoflo</h4>
 <h5 align="center">Shoflo allows users to search for tv shows, save their favorites, see recommended shows, browse popular shows, and discover top rated shows. Once shows are saved, users receive notifications when new seasons of their favorite shows are announced.</h5>
 <h6 align="center">Swift, SwiftUI, Core Data, Background Tasks, Network, REST, JSON, User Notifications, and Inkscape.</h6>
@@ -35,8 +36,6 @@
 <h6 align="center">Swift, UIKit, Core Data, User Notifications, AVFoundation, Photos, Google AdMob, and Inkscape.   </h6>
 
 <p align="center"><img src="https://github.com/PeterConnor/PeterConnor/blob/main/otss1.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/otss2.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/otss3.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/otss4.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/otss5.png" width="160"></p>
-
-<p align="center"></a> <a href="https://apps.apple.com/us/developer/pete-connor/id1229921647" target="_blank"> <img src="AppStoreLogo.svg" alt="App Store" width="200" height="40"/> </a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
