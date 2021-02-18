@@ -21,7 +21,7 @@
 <h5 align="center">Shoflo allows users to search for tv shows, save their favorites, see recommended shows, browse popular shows, and discover top rated shows. Once shows are saved, users receive notifications when new seasons of their favorite shows are announced.</h5>
 <h6 align="center">Swift, SwiftUI, Core Data, Background Tasks, Network, REST, JSON, User Notifications, and Inkscape.</h6>
 
-<img src="https://github.com/PeterConnor/PeterConnor/blob/main/shoflo-ss1.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/shoflo-ss2.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/shoflo-ss3.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/shoflo-ss4.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/shoflo-ss5.png" width="160">
+<img src="https://github.com/PeterConnor/PeterConnor/blob/main/Shofloss6.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/shoflo-ss1.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/shoflo-ss3.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/shoflo-ss4.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/shoflo-ss5.png" width="160">
 
 <h4 align="center">MiniGames!</h4>
 <h5 align="center">Minigames! consists of 6 fun and addicting games. Users must tap, match, shoot, dodge, and bounce their way through these games to rack up the highest scores possible!</h5>
