@@ -35,7 +35,7 @@
 
 <h6 align="center">Swift, UIKit, Core Data, User Notifications, AVFoundation, Photos, Google AdMob, and Inkscape.   </h6>
 
-<p align="center"><img src="https://github.com/PeterConnor/PeterConnor/blob/main/otss1.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/otss2.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/otss3.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/otss4.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/otss5.png" width="160"></p>
+<p align="center"><img src="https://github.com/PeterConnor/PeterConnor/blob/main/otss1.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/otss2.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/otss3.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/OtssNew.png" width="160"> <img src="https://github.com/PeterConnor/PeterConnor/blob/main/otss5.png" width="160"></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
